@@ -21,7 +21,6 @@ Each project folder contains:
 - 📊 Excel Dashboard (Sales_Data_Working.xlsx)
 - 🖼️ Dashboard Screenshot (<img width="1856" height="817" alt="image" src="https://github.com/user-attachments/assets/5ff8ad0c-b281-4b7d-82dc-fb4288050d79" />
 )
-- 📁 Dataset (.xlsx/.csv)
 - 📄 README.md (Project Overview)
 
 ## 📁 Projects
