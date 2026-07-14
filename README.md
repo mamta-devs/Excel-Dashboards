@@ -39,7 +39,6 @@ Each project folder contains:
 - KPI Tracking
 
 
-⭐ Feel free to explore the projects and share your feedback!
 
 *(More dashboards will be added as I continue learning and building projects.)*
 
